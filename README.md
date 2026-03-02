@@ -83,7 +83,7 @@ then `id ASC`.
 ## Running the Tests
 
 ```bash
-cd newsreader
+cd IT_Newsreader
 python -m pytest tests/ -v --asyncio-mode=auto
 ```
 
@@ -94,7 +94,7 @@ All 25 tests should pass in under 1 second.
 ## Architecture Overview
 
 ```
-newsreader/
+IT_Newsreader/
 ├── main.py               Application entry point + scheduler
 ├── config.py             Environment-driven configuration
 ├── models.py             Pydantic data models (NewsItem, IngestResponse)

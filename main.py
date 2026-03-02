@@ -38,7 +38,7 @@ logging.basicConfig(
     datefmt="%Y-%m-%dT%H:%M:%S",
     stream=sys.stdout,
 )
-logger = logging.getLogger("newsreader")
+logger = logging.getLogger("IT_Newsreader")
 
 
 # ---------------------------------------------------------------------------
