@@ -9,7 +9,7 @@ exposes the results through a REST API and a web dashboard.
 
 ```bash
 # 1. Clone / unzip the project, enter the directory
-cd newsreader
+cd IT_Newsreader
 
 # 2. Create and activate a virtual environment
 python -m venv venv

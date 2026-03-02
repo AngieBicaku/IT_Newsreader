@@ -1,0 +1,11 @@
+fastapi==0.134.0
+uvicorn==0.41.0
+feedparser==6.0.12
+httpx==0.28.1
+pydantic==2.12.5
+python-dotenv==1.2.1
+apscheduler==3.11.2
+scikit-learn==1.8.0
+numpy==2.4.2
+pytest==8.3.5
+pytest-asyncio==0.25.3
