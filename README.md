@@ -19,8 +19,8 @@ source venv/bin/activate        # Linux/macOS
 # 3. Install dependencies
 pip install -r requirements.txt
 
-# 4. (Optional) Copy and edit the environment file
-cp .env.example .env
+# 4. Optional | Copy and edit the environment file
+#cp .env.example .env
 
 # 5. Run the server
 python main.py
